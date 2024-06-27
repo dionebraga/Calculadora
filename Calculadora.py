@@ -27,3 +27,6 @@ elif operation == '/':
 
 else:
     print('Você não digitou um operador válido, execute o programa novamente.')
+
+    #Versão DioneBraga
+    
